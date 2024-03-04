@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/ruslantsitser/dev/projects/sandbox/similarity_open_cv/android/opencv/.cxx/Debug/2b501v5g/x86",
+  "command": "/Users/ruslantsitser/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/ruslantsitser/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/ruslantsitser/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/opencv_jni_shared.dir/dummy.cpp.o -c /Users/ruslantsitser/dev/projects/sandbox/similarity_open_cv/android/opencv/libcxx_helper/dummy.cpp",
+  "file": "/Users/ruslantsitser/dev/projects/sandbox/similarity_open_cv/android/opencv/libcxx_helper/dummy.cpp"
+}
+]
